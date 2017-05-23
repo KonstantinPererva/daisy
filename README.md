@@ -1,3 +1,3 @@
 Верстка лендинга, не адаптивный. PSD взят из интернета для тренировки.
 
-Использовал: HTML/CSS, Bootstrap 3, jQuery
+Использовал: HTML5/CSS3, Bootstrap 3, jQuery
